@@ -21,7 +21,7 @@ public class StartPaymentActivity extends AppCompatActivity {
     PayUmoneySdkInitializer.PaymentParam paymentParam = null;
 
     String TAG ="mainActivity", txnid ="txt12346", amount ="20", phone ="9144040888",
-            prodname ="BlueApp Course", firstname ="kamal", email ="kamal.bunkar07@gmail.com",
+            prodname ="platform online class", firstname ="hemant", email ="hemantkumar692@gmail.com",
             merchantId ="5884494", merchantkey="2CkWwD5p";  //   first test key only
 
 
